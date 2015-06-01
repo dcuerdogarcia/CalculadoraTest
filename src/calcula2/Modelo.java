@@ -1,12 +1,22 @@
-
 package calcula2;
 
 // objetos para utilizar
 public class Modelo {
+
     int num1;
     int num2;
-    int  operacion;
-    double resultado;
+    int operacion;
+    float resultado;
+
+    public Modelo() {
+    }
+
+    public Modelo(int num1, int num2, int operacion, float resultado) {
+        this.num1 = num1;
+        this.num2 = num2;
+        this.operacion = operacion;
+        this.resultado = resultado;
+    }
 
     public int getNum1() {
         return num1;
@@ -24,7 +34,7 @@ public class Modelo {
         this.num2 = num2;
     }
 
-    public double getOperacion() {
+    public int getOperacion() {
         return operacion;
     }
 
@@ -32,12 +42,12 @@ public class Modelo {
         this.operacion = operacion;
     }
 
-    public double getResultado() {
+    public float getResultado() {
         return resultado;
     }
 
-    public void setResultado(double resultado) {
+    public void setResultado(float resultado) {
         this.resultado = resultado;
     }
-    
+
 }
