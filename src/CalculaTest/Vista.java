@@ -1,4 +1,4 @@
-package calcula2;
+package CalculaTest;
 
 import javax.swing.JOptionPane;
 

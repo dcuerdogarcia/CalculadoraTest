@@ -1,4 +1,4 @@
-package calcula2;
+package CalculaTest;
 
 // objetos para utilizar
 public class Modelo {

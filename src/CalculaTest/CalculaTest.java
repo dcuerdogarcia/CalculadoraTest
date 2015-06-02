@@ -1,8 +1,8 @@
-package calcula2;
+package CalculaTest;
 
 import javax.swing.JOptionPane;
 
-public class Calcula2 {
+public class CalculaTest {
     
     public static void main(String[] args) {
         Modelo mod = new Modelo();

@@ -1,4 +1,4 @@
-package calcula2;
+package CalculaTest;
 
 
 public class Logica {

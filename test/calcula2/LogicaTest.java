@@ -5,6 +5,8 @@
  */
 package calcula2;
 
+import CalculaTest.Logica;
+import CalculaTest.Modelo;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -14,7 +16,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Alex Urcera
+ * @author dcuerdogarcia
  */
 public class LogicaTest {
     

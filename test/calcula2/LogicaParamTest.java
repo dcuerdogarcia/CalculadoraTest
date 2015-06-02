@@ -1,6 +1,8 @@
 
 package calcula2;
 
+import CalculaTest.Logica;
+import CalculaTest.Modelo;
 import java.util.Arrays;
 import java.util.Collection;
 import org.junit.Before;
